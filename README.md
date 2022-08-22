@@ -3,4 +3,4 @@
 
 Сверстан по макету с использованием html и css.
 
-Проект доступен по ссылке - 
+Проект доступен по ссылке - https://filimonovalexey.github.io/Landing-Task-Tracker/
